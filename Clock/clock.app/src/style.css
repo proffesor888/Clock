@@ -1,0 +1,21 @@
+html {
+    margin:0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+    
+}
+body {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#root {
+   margin-top: 100px;     
+}
+
+
+.buttons {
+    margin-left: 20px;
+}
